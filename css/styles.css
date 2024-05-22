@@ -31,14 +31,13 @@ p {
   color: #5d566c;
 }
 /*  */
-/*
+
 .container {
   font-size: 1em;
   white-space: nowrap;
   overflow: hidden;
   /* border-right: 0.15em solid black; cursor effect */
 
-/*
   animation: blinkCursor 0.75s step-end infinite;
 }
 
@@ -117,7 +116,7 @@ p {
 .container {
   animation: resetAnimation 19s infinite;
   /* opacity: 1; */
-/* } */
+}
 
 /*  */
 
